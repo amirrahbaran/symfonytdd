@@ -1,0 +1,4 @@
+Run on vagrant virtual system:
+-------------------------------
+composer global require "phpunit/phpunit=5.5.*"
+pecl install xdebug

@@ -1,0 +1,27 @@
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
+
+#contact:
+#    path:     /contact
+#    defaults: { _controller: AppBundle:Main:contact }
+#
+#about:
+#    path:     /about
+#    defaults: { _controller: AppBundle:Main:about }
+#
+#showluckynumber:
+#    path:     /show/lucky/number
+#    defaults: { _controller: AppBundle:Lucky:showSimpleLuckyNumber }
+#
+#showjsonluckynumber:
+#    path:     /show/json/lucky/number
+#    defaults: { _controller: AppBundle:Lucky:showJsonLuckyNumber }
+#
+#showluckynumberlist:
+#    path:     /show/lucky/numbers/{count}
+#    defaults: { _controller: AppBundle:Lucky:showLuckyNumbers }
+#
+#showjsonluckynumberlist:
+#    path:     /show/json/lucky/numbers/{count}
+#    defaults: { _controller: AppBundle:Lucky:showJsonLuckyNumbers }
